@@ -1,6 +1,6 @@
 <hr/>
 <p align="center">
-  <img src="https://media.giphy.com/media/9N2tuwehq1BWfJq8XV/giphy.gif" width="100%" height="350px" alt="Description">  
+  <img src="https://media.giphy.com/media/9N2tuwehq1BWfJq8XV/giphy.gif" width="100%" height="350px" alt="Description Profile">  
 </p>
 
 
